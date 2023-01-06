@@ -4,3 +4,5 @@ This repository implements the task of recognizing license plates on the CCPD201
 model.py - the file in which the model is implemented.
 
 utils.py - the file that implements the functions of calculating quality metrics, encoding and decoding..
+
+main_notebook.ipynb - the file in which the model was launched.
